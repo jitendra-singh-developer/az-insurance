@@ -32,7 +32,9 @@ export default class RecordList extends NavigationMixin(LightningElement) {
         listViewApiName: '$listView'
     })
     results({ data, error }) {
+        console.log('data11', data);
         if (data) {
+            console.log('data11', data);
             this.columnFields = data.info.displayColumns;
             this.records = data.records.records;
             this.listViewLabel = data.info.label;

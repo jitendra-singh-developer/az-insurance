@@ -14,7 +14,7 @@
                 type="ContentReference"
                 name="contentId"
                 label="Content ID"
-                filter="news"
+        
             />
             <property
                 type="Boolean"

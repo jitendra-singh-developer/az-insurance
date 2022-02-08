@@ -27,7 +27,7 @@
                 type="ContentReference"
                 name="contentId1"
                 label="Content ID 1"
-                filter="news"
+                
             />
             <property
                 type="String"
@@ -45,7 +45,7 @@
                 type="ContentReference"
                 name="contentId2"
                 label="Content ID 2"
-                filter="news"
+                
             />
             <property
                 type="String"
@@ -63,7 +63,7 @@
                 type="ContentReference"
                 name="contentId3"
                 label="Content ID 3"
-                filter="news"
+               
             />
             <property
                 type="String"
